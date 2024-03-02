@@ -1,1 +1,3 @@
 # train_test
+
+This repository provides a comprehensive example of implementing the train-test split technique for data preprocessing in machine learning projects. Train-test split is a fundamental step in model development, enabling the assessment of model performance on unseen data. This repository includes detailed code examples and explanations to demonstrate how to split a dataset into training and testing sets using popular Python libraries such as scikit-learn.
